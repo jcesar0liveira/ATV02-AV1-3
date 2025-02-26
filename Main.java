@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        ContaBancaria conta1 = new ContaBancaria("12345-6", "Alice");
-        ContaBancaria conta2 = new ContaBancaria("65432-1", "Bob");
+        ContaBancaria conta1 = new ContaBancaria("12345-6", "Júlio");
+        ContaBancaria conta2 = new ContaBancaria("65432-1", "Wagner");
 
 
         conta1.exibirSaldo();
